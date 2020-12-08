@@ -1,0 +1,13 @@
+英语登录系统  https://itestcloud.unipus.cn/utest/itest/s/exam/school
+
+阿里云  https://developer.aliyun.com/adc/student/#ecscolleges-collocation-stu
+
+B站  https://www.bilibili.com/
+
+教务系统  http://urp.hebau.edu.cn/
+
+四六级 http://cet-bm.neea.edu.cn/
+
+导员审核系统:211.68.191.30:8090/fanxiao
+
+
